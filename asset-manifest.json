@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Elevate_Assignment_M4/static/css/main.fb532045.css",
+    "main.js": "/Elevate_Assignment_M4/static/js/main.c3405149.js",
+    "index.html": "/Elevate_Assignment_M4/index.html",
+    "main.fb532045.css.map": "/Elevate_Assignment_M4/static/css/main.fb532045.css.map",
+    "main.c3405149.js.map": "/Elevate_Assignment_M4/static/js/main.c3405149.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb532045.css",
+    "static/js/main.c3405149.js"
+  ]
+}
